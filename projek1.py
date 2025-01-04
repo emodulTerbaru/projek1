@@ -1,6 +1,4 @@
 import streamlit as st
-
-import streamlit as st
 from pyrebase import pyrebase
 
 # Konfigurasi Firebase
